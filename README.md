@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Full Stack Coding with the University of Toronto and EdX
 - 📫 How to reach me ... via email natalie.clinton@hotmail.com
 - 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... I have a 13 year old red eared Slider named Casio!
+- ⚡ Fun fact: ... I have a 13 year old red eared slider named Casio!
 
 <!---
 NatalieClinton/NatalieClinton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
